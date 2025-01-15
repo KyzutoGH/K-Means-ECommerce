@@ -1,0 +1,1002 @@
+[
+  {
+    "id":1,
+    "nama_toko":"Ace Hobby Town",
+    "nama_produk":"Model Kit Bandai Entry Grade RX-78-2 Gundam",
+    "jumlah_terjual":40,
+    "harga":120000,
+    "omset":4800000,
+    "cluster":0,
+    "cluster_kategori":"Rendah"
+  },
+  {
+    "id":2,
+    "nama_toko":"Ace Hobby Town",
+    "nama_produk":"Model Kit Bandai Bandai 30MM Option Weapon 1 for portanove",
+    "jumlah_terjual":27,
+    "harga":77500,
+    "omset":2092500,
+    "cluster":0,
+    "cluster_kategori":"Rendah"
+  },
+  {
+    "id":3,
+    "nama_toko":"Ace Hobby Town",
+    "nama_produk":"Gundam Tools - Mr Hobby GM-02 Gundam maker Gray",
+    "jumlah_terjual":28,
+    "harga":39000,
+    "omset":1092000,
+    "cluster":0,
+    "cluster_kategori":"Rendah"
+  },
+  {
+    "id":4,
+    "nama_toko":"Ace Hobby Town",
+    "nama_produk":"MODEL KIT BANDAI 30MM eEXM-9 VASKYROT (GRAY)",
+    "jumlah_terjual":2,
+    "harga":244000,
+    "omset":488000,
+    "cluster":0,
+    "cluster_kategori":"Rendah"
+  },
+  {
+    "id":5,
+    "nama_toko":"Ace Hobby Town",
+    "nama_produk":"HG BANDAI HGTWFM CALIBARN",
+    "jumlah_terjual":10,
+    "harga":440000,
+    "omset":4400000,
+    "cluster":0,
+    "cluster_kategori":"Rendah"
+  },
+  {
+    "id":6,
+    "nama_toko":"Ace Hobby Town",
+    "nama_produk":"Bandai ACTION BASE 4 CLEAR",
+    "jumlah_terjual":90,
+    "harga":99000,
+    "omset":8910000,
+    "cluster":0,
+    "cluster_kategori":"Rendah"
+  },
+  {
+    "id":7,
+    "nama_toko":"Ace Hobby Town",
+    "nama_produk":"MODEL KIT BANDAI ENTRY GRADE 1\/144 LAH LA RA\r\n",
+    "jumlah_terjual":4,
+    "harga":200000,
+    "omset":800000,
+    "cluster":0,
+    "cluster_kategori":"Rendah"
+  },
+  {
+    "id":8,
+    "nama_toko":"Ace Hobby Town",
+    "nama_produk":"HG BANDAI HGTWFM DILANZA SOL \r\n",
+    "jumlah_terjual":4,
+    "harga":256000,
+    "omset":1024000,
+    "cluster":0,
+    "cluster_kategori":"Rendah"
+  },
+  {
+    "id":9,
+    "nama_toko":"Ace Hobby Town",
+    "nama_produk":"MODEL KIT BANDAI 30MS SIS-D00 NEVERLIA (COLOR A)\r\n",
+    "jumlah_terjual":15,
+    "harga":330000,
+    "omset":4950000,
+    "cluster":0,
+    "cluster_kategori":"Rendah"
+  },
+  {
+    "id":10,
+    "nama_toko":"Ace Hobby Town",
+    "nama_produk":"FIGURISE STANDARD BANDAI YUGI-OH BLUE EYES WHITE DRAGON AMPLIFIED \r\n",
+    "jumlah_terjual":19,
+    "harga":792000,
+    "omset":15048000,
+    "cluster":0,
+    "cluster_kategori":"Rendah"
+  },
+  {
+    "id":11,
+    "nama_toko":"PressPlay",
+    "nama_produk":"ROVER84 84-key Wireless Mechanical Keyboard by Press Play",
+    "jumlah_terjual":500,
+    "harga":1149000,
+    "omset":574500000,
+    "cluster":0,
+    "cluster_kategori":"Rendah"
+  },
+  {
+    "id":12,
+    "nama_toko":"PressPlay",
+    "nama_produk":"ROVER84 Barebones DIY Kit Wireless Mechanical Keyboard",
+    "jumlah_terjual":100,
+    "harga":1099000,
+    "omset":109900000,
+    "cluster":0,
+    "cluster_kategori":"Rendah"
+  },
+  {
+    "id":13,
+    "nama_toko":"PressPlay",
+    "nama_produk":"TITAN80 Aluminum Barebone Mechanical Keyboard Barebones by Press Play",
+    "jumlah_terjual":250,
+    "harga":1599000,
+    "omset":399750000,
+    "cluster":0,
+    "cluster_kategori":"Rendah"
+  },
+  {
+    "id":14,
+    "nama_toko":"PressPlay",
+    "nama_produk":"VOYAGER68 Milky Way Edition Wireless 65% 68-key Mechanical Keyboard",
+    "jumlah_terjual":500,
+    "harga":1049000,
+    "omset":524500000,
+    "cluster":0,
+    "cluster_kategori":"Rendah"
+  },
+  {
+    "id":15,
+    "nama_toko":"PressPlay",
+    "nama_produk":"APOLLO61 Wireless Mechanical Keyboard by Press Play",
+    "jumlah_terjual":250,
+    "harga":749000,
+    "omset":187250000,
+    "cluster":0,
+    "cluster_kategori":"Rendah"
+  },
+  {
+    "id":16,
+    "nama_toko":"PressPlay",
+    "nama_produk":"AirKeys Wireless Keyboard Bluetooth 2.4ghz Dongle by Press Play",
+    "jumlah_terjual":250,
+    "harga":499000,
+    "omset":124750000,
+    "cluster":0,
+    "cluster_kategori":"Rendah"
+  },
+  {
+    "id":17,
+    "nama_toko":"PressPlay",
+    "nama_produk":"ROVER84 v3 Wireless Mechanical Keyboard Gasket Mount by Press Play",
+    "jumlah_terjual":1000,
+    "harga":1349000,
+    "omset":1349000000,
+    "cluster":1,
+    "cluster_kategori":"Sedang"
+  },
+  {
+    "id":18,
+    "nama_toko":"PressPlay",
+    "nama_produk":"ROVER84 v3 Lite Mechanical Keyboard Gasket Mount by Press Play",
+    "jumlah_terjual":750,
+    "harga":719000,
+    "omset":539250000,
+    "cluster":0,
+    "cluster_kategori":"Rendah"
+  },
+  {
+    "id":19,
+    "nama_toko":"PressPlay",
+    "nama_produk":"AirKeys Wireless Compact Keyboard Bluetooth 2.4G Dongle by Press",
+    "jumlah_terjual":250,
+    "harga":399000,
+    "omset":99750000,
+    "cluster":0,
+    "cluster_kategori":"Rendah"
+  },
+  {
+    "id":20,
+    "nama_toko":"PressPlay",
+    "nama_produk":"VOYAGER68 v2 Lite 65% 67-key Mechanical Keyboard by Press Play",
+    "jumlah_terjual":250,
+    "harga":489000,
+    "omset":122250000,
+    "cluster":0,
+    "cluster_kategori":"Rendah"
+  },
+  {
+    "id":21,
+    "nama_toko":"PressPlay",
+    "nama_produk":"VOYAGER68 Lightyear Edition CNC Alu South Facing Mechanical Keyboard - BAREBONES",
+    "jumlah_terjual":500,
+    "harga":649000,
+    "omset":324500000,
+    "cluster":0,
+    "cluster_kategori":"Rendah"
+  },
+  {
+    "id":22,
+    "nama_toko":"PressPlay",
+    "nama_produk":"APOLLO61 Lightyear Edition Wireless Aluminum Case Mechanical Keyboard - Barebones",
+    "jumlah_terjual":100,
+    "harga":999000,
+    "omset":99900000,
+    "cluster":0,
+    "cluster_kategori":"Rendah"
+  },
+  {
+    "id":23,
+    "nama_toko":"PressPlay",
+    "nama_produk":"APOLLO61 Lite 60% Wired Mechanical Keyboard by Press Play",
+    "jumlah_terjual":500,
+    "harga":549000,
+    "omset":274500000,
+    "cluster":0,
+    "cluster_kategori":"Rendah"
+  },
+  {
+    "id":24,
+    "nama_toko":"PressPlay",
+    "nama_produk":"ROVER84 Lightyear Edition Wireless CNC Aluminium Mechanical Keyboard - Void Black",
+    "jumlah_terjual":500,
+    "harga":1489000,
+    "omset":744500000,
+    "cluster":0,
+    "cluster_kategori":"Rendah"
+  },
+  {
+    "id":25,
+    "nama_toko":"PressPlay",
+    "nama_produk":"ROVER84 V4 Lite 75% Wired Mechanical Keyboard by Press Play - AJAZZ BlueSky",
+    "jumlah_terjual":500,
+    "harga":699000,
+    "omset":349500000,
+    "cluster":0,
+    "cluster_kategori":"Rendah"
+  },
+  {
+    "id":26,
+    "nama_toko":"PressPlay",
+    "nama_produk":"ROVER84 75% Wireless Mechanical Keyboard by Press Play - Smokey Black",
+    "jumlah_terjual":500,
+    "harga":989000,
+    "omset":494500000,
+    "cluster":0,
+    "cluster_kategori":"Rendah"
+  },
+  {
+    "id":27,
+    "nama_toko":"PressPlay",
+    "nama_produk":"VOYAGER68 65% 67-keys Mechanical Keyboard by Press Play - Milky Purple",
+    "jumlah_terjual":500,
+    "harga":899000,
+    "omset":449500000,
+    "cluster":0,
+    "cluster_kategori":"Rendah"
+  },
+  {
+    "id":28,
+    "nama_toko":"Logitech official store",
+    "nama_produk":"Logitech MX Master 2S Mouse Wireless",
+    "jumlah_terjual":1300,
+    "harga":899000,
+    "omset":1168700000,
+    "cluster":1,
+    "cluster_kategori":"Sedang"
+  },
+  {
+    "id":29,
+    "nama_toko":"Logitech official store",
+    "nama_produk":"Logitech G304 Lightspeed Mouse Gaming Wireless Sensor 12K DPI",
+    "jumlah_terjual":8900,
+    "harga":479000,
+    "omset":4263100000,
+    "cluster":1,
+    "cluster_kategori":"Sedang"
+  },
+  {
+    "id":30,
+    "nama_toko":"Logitech official store",
+    "nama_produk":"Logitech Signature M550 Mouse Wireless Bluetooth Silent Clicks Smartwheel Scrolling",
+    "jumlah_terjual":3200,
+    "harga":367000,
+    "omset":1174400000,
+    "cluster":1,
+    "cluster_kategori":"Sedang"
+  },
+  {
+    "id":31,
+    "nama_toko":"Logitech official store",
+    "nama_produk":"Logitech Pebble 2 M350s Mouse Wireless Bluetooth Slim Silent",
+    "jumlah_terjual":10000,
+    "harga":339000,
+    "omset":3390000000,
+    "cluster":1,
+    "cluster_kategori":"Sedang"
+  },
+  {
+    "id":32,
+    "nama_toko":"Logitech official store",
+    "nama_produk":"Logitech B170 Mouse Wireless untuk Windows",
+    "jumlah_terjual":10000,
+    "harga":129000,
+    "omset":1290000000,
+    "cluster":1,
+    "cluster_kategori":"Sedang"
+  },
+  {
+    "id":33,
+    "nama_toko":"Logitech official store",
+    "nama_produk":"Logitech Mouse Mx Master 3S Wireless Bluetooth Quiet Click 1000Dpi",
+    "jumlah_terjual":3000,
+    "harga":1560000,
+    "omset":4680000000,
+    "cluster":1,
+    "cluster_kategori":"Sedang"
+  },
+  {
+    "id":34,
+    "nama_toko":"Logitech official store",
+    "nama_produk":"Logitech G403 HERO Mouse Gaming Wired RGB LIGHTSYNC Lighting",
+    "jumlah_terjual":847,
+    "harga":649000,
+    "omset":549703000,
+    "cluster":0,
+    "cluster_kategori":"Rendah"
+  },
+  {
+    "id":35,
+    "nama_toko":"Logitech official store",
+    "nama_produk":"Logitech G PRO X SUPERLIGHT Mouse Gaming Wireless with HERO Sensor 25K DPI",
+    "jumlah_terjual":10000,
+    "harga":1699000,
+    "omset":16990000000,
+    "cluster":2,
+    "cluster_kategori":"Tinggi"
+  },
+  {
+    "id":36,
+    "nama_toko":"Logitech official store",
+    "nama_produk":"Logitech G304 Lightspeed Wireless Gaming Mouse",
+    "jumlah_terjual":60,
+    "harga":457000,
+    "omset":27420000,
+    "cluster":0,
+    "cluster_kategori":"Rendah"
+  },
+  {
+    "id":37,
+    "nama_toko":"Logitech official store",
+    "nama_produk":"Mouse Logitech M650 \/ M 650 Wireless Signature",
+    "jumlah_terjual":5000,
+    "harga":427800,
+    "omset":2139000000,
+    "cluster":1,
+    "cluster_kategori":"Sedang"
+  },
+  {
+    "id":38,
+    "nama_toko":"Logitech official store",
+    "nama_produk":"Logitech LIFT Mouse Ergonomic Vertical Wireless Bluetooth Silent",
+    "jumlah_terjual":1300,
+    "harga":860985,
+    "omset":1119280500,
+    "cluster":1,
+    "cluster_kategori":"Sedang"
+  },
+  {
+    "id":39,
+    "nama_toko":"Logitech official store",
+    "nama_produk":"Logitech G102 Prodigy Gaming Mouse",
+    "jumlah_terjual":1300,
+    "harga":244499,
+    "omset":317848700,
+    "cluster":0,
+    "cluster_kategori":"Rendah"
+  },
+  {
+    "id":40,
+    "nama_toko":"lsari.fry",
+    "nama_produk":"JACKET BOOMBER LIQUID ESPORT RRQ ONIC ALTEREGO ECHO BTR",
+    "jumlah_terjual":177,
+    "harga":178000,
+    "omset":31506000,
+    "cluster":0,
+    "cluster_kategori":"Rendah"
+  },
+  {
+    "id":41,
+    "nama_toko":"lsari.fry",
+    "nama_produk":"JAKET VARSITY ECHO PH TERBARU M4 WORLD CHAMPIONSHIP",
+    "jumlah_terjual":1300,
+    "harga":258000,
+    "omset":335400000,
+    "cluster":0,
+    "cluster_kategori":"Rendah"
+  },
+  {
+    "id":42,
+    "nama_toko":"lsari.fry",
+    "nama_produk":"JAKET ONIC ESPORTS TERBARU 2022 SEASON 10",
+    "jumlah_terjual":166,
+    "harga":158000,
+    "omset":26228000,
+    "cluster":0,
+    "cluster_kategori":"Rendah"
+  },
+  {
+    "id":43,
+    "nama_toko":"lsari.fry",
+    "nama_produk":"JAKET ONIC TERBARU TRACK MOBILE LEGEND PRIA WANITA",
+    "jumlah_terjual":33,
+    "harga":258000,
+    "omset":8514000,
+    "cluster":0,
+    "cluster_kategori":"Rendah"
+  },
+  {
+    "id":44,
+    "nama_toko":"lsari.fry",
+    "nama_produk":"JAKET VARSITY BTR x MEMPHIS RETRO FUTURISTIC RRQ EVOS ONIC ALTER EGO ECHO BLACKLIST",
+    "jumlah_terjual":129,
+    "harga":298000,
+    "omset":38442000,
+    "cluster":0,
+    "cluster_kategori":"Rendah"
+  },
+  {
+    "id":45,
+    "nama_toko":"lsari.fry",
+    "nama_produk":"JAKET VARSITY AP BREN M5 TERBARU TAHUN 2024 ESPORT MOBILE LEGEND PUBG BIG SIZE RRQ ONIC BTR ALTEREGO ECHO EVOS",
+    "jumlah_terjual":21,
+    "harga":248000,
+    "omset":5208000,
+    "cluster":0,
+    "cluster_kategori":"Rendah"
+  },
+  {
+    "id":46,
+    "nama_toko":"lsari.fry",
+    "nama_produk":"JAKET VARSITY ONIC TERBARU M5 WORLD CHAMPIONSHIP 2023",
+    "jumlah_terjual":421,
+    "harga":248000,
+    "omset":104408000,
+    "cluster":0,
+    "cluster_kategori":"Rendah"
+  },
+  {
+    "id":47,
+    "nama_toko":"lsari.fry",
+    "nama_produk":"Jaket Varsity Alter Ego Terbaru 2023",
+    "jumlah_terjual":215,
+    "harga":248000,
+    "omset":53320000,
+    "cluster":0,
+    "cluster_kategori":"Rendah"
+  },
+  {
+    "id":48,
+    "nama_toko":"lsari.fry",
+    "nama_produk":"JACKET RRQ X SUKRO TERBARU 2024 SEASON 14 ALTEREGO ECHO ONIC EVOS",
+    "jumlah_terjual":31,
+    "harga":248000,
+    "omset":7688000,
+    "cluster":0,
+    "cluster_kategori":"Rendah"
+  },
+  {
+    "id":49,
+    "nama_toko":"lsari.fry",
+    "nama_produk":"JAKET BOOMBER PROJECT COSMIC TERBARU 2024 SEASON 14 ALTEREGO ECHO ONIC EVOS",
+    "jumlah_terjual":3,
+    "harga":248000,
+    "omset":744000,
+    "cluster":0,
+    "cluster_kategori":"Rendah"
+  },
+  {
+    "id":50,
+    "nama_toko":"lsari.fry",
+    "nama_produk":"JAKET VARSITY BTR x MEMPHIS RETRO FUTURISTIC RRQ EVOS ONIC ALTER EGO ECHO BLACKLIST",
+    "jumlah_terjual":129,
+    "harga":298000,
+    "omset":38442000,
+    "cluster":0,
+    "cluster_kategori":"Rendah"
+  },
+  {
+    "id":51,
+    "nama_toko":"lsari.fry",
+    "nama_produk":"JAKET HONOUR NASCAR RRQ TERBARU TAHUN 2024 ONIC ALTER EGO EVOS BTR ECHO AP BREN",
+    "jumlah_terjual":36,
+    "harga":268000,
+    "omset":9648000,
+    "cluster":0,
+    "cluster_kategori":"Rendah"
+  },
+  {
+    "id":52,
+    "nama_toko":"lsari.fry",
+    "nama_produk":"Jaket Varsity Evos Esport Mobile Legend Tahun 2023 - 2024 Rrq Alterego Onic Echo Btr",
+    "jumlah_terjual":62,
+    "harga":248000,
+    "omset":15376000,
+    "cluster":0,
+    "cluster_kategori":"Rendah"
+  },
+  {
+    "id":53,
+    "nama_toko":"Elzatta Official Shop",
+    "nama_produk":"Elzatta Hijab Jilbab Segi Empat Scarf Polycotton Polos Obelia Samida",
+    "jumlah_terjual":10000,
+    "harga":30000,
+    "omset":300000000,
+    "cluster":0,
+    "cluster_kategori":"Rendah"
+  },
+  {
+    "id":54,
+    "nama_toko":"Elzatta Official Shop",
+    "nama_produk":"Elzatta Jilbab Instan Bergo Bahan Spandex Zaria Citra",
+    "jumlah_terjual":10000,
+    "harga":44000,
+    "omset":440000000,
+    "cluster":0,
+    "cluster_kategori":"Rendah"
+  },
+  {
+    "id":55,
+    "nama_toko":"Elzatta Official Shop",
+    "nama_produk":"Elzatta Bergo Jilbab Instan Syari Zaria Kirana",
+    "jumlah_terjual":10000,
+    "harga":60000,
+    "omset":600000000,
+    "cluster":0,
+    "cluster_kategori":"Rendah"
+  },
+  {
+    "id":56,
+    "nama_toko":"Elzatta Official Shop",
+    "nama_produk":"Elzatta Jilbab Instan Bergo Spandex Zaria Sahara",
+    "jumlah_terjual":10000,
+    "harga":44000,
+    "omset":440000000,
+    "cluster":0,
+    "cluster_kategori":"Rendah"
+  },
+  {
+    "id":57,
+    "nama_toko":"Elzatta Official Shop",
+    "nama_produk":"Elzatta Jilbab Instan Bergo Zaria Casual",
+    "jumlah_terjual":10000,
+    "harga":44000,
+    "omset":440000000,
+    "cluster":0,
+    "cluster_kategori":"Rendah"
+  },
+  {
+    "id":58,
+    "nama_toko":"Elzatta Official Shop",
+    "nama_produk":"Elzatta Hijab Kerudung Jilbab Bergo Instan Polos Knit Salur Olina Susun",
+    "jumlah_terjual":3400,
+    "harga":35000,
+    "omset":119000000,
+    "cluster":0,
+    "cluster_kategori":"Rendah"
+  },
+  {
+    "id":59,
+    "nama_toko":"Elzatta Official Shop",
+    "nama_produk":"Elzatta Jilbab Instan Bergo Zaria Casual Bordir M & L",
+    "jumlah_terjual":3500,
+    "harga":75000,
+    "omset":262500000,
+    "cluster":0,
+    "cluster_kategori":"Rendah"
+  },
+  {
+    "id":60,
+    "nama_toko":"Elzatta Official Shop",
+    "nama_produk":"Elzatta Hijab Kerudung Jilbab Bergo Instan Motif Olina Polka",
+    "jumlah_terjual":3100,
+    "harga":35000,
+    "omset":108500000,
+    "cluster":0,
+    "cluster_kategori":"Rendah"
+  },
+  {
+    "id":61,
+    "nama_toko":"Elzatta Official Shop",
+    "nama_produk":"Elzatta Ciput Ninja Anti Tembem Bahan Rayon Ciput S Selena",
+    "jumlah_terjual":8700,
+    "harga":28000,
+    "omset":243600000,
+    "cluster":0,
+    "cluster_kategori":"Rendah"
+  },
+  {
+    "id":62,
+    "nama_toko":"Elzatta Official Shop",
+    "nama_produk":"Elzatta Jilbab Segi Empat Scarf Polycotton Motif Premium Obelia Series",
+    "jumlah_terjual":6300,
+    "harga":59000,
+    "omset":371700000,
+    "cluster":0,
+    "cluster_kategori":"Rendah"
+  },
+  {
+    "id":63,
+    "nama_toko":"Elzatta Official Shop",
+    "nama_produk":"Elzatta Ciput S Rumana",
+    "jumlah_terjual":4200,
+    "harga":15200,
+    "omset":63840000,
+    "cluster":0,
+    "cluster_kategori":"Rendah"
+  },
+  {
+    "id":64,
+    "nama_toko":"Elzatta Official Shop",
+    "nama_produk":"Elzatta Hijab Kerudung Jilbab Bergo Instan Polos Series",
+    "jumlah_terjual":1400,
+    "harga":111100,
+    "omset":155540000,
+    "cluster":0,
+    "cluster_kategori":"Rendah"
+  },
+  {
+    "id":65,
+    "nama_toko":"Elzatta Official Shop",
+    "nama_produk":"Elzatta Jilbab Instan Polos Zaria Sahara L",
+    "jumlah_terjual":3600,
+    "harga":68000,
+    "omset":244800000,
+    "cluster":0,
+    "cluster_kategori":"Rendah"
+  },
+  {
+    "id":66,
+    "nama_toko":"Elzatta Official Shop",
+    "nama_produk":"Elzatta Hijab Jilbab Polos Kerudung Pashmina Cerutty",
+    "jumlah_terjual":10000,
+    "harga":59000,
+    "omset":590000000,
+    "cluster":0,
+    "cluster_kategori":"Rendah"
+  },
+  {
+    "id":67,
+    "nama_toko":"Elzatta Official Shop",
+    "nama_produk":"Elzatta Hijab Jilbab Segi empat Keisha Lamisa",
+    "jumlah_terjual":3700,
+    "harga":144000,
+    "omset":532800000,
+    "cluster":0,
+    "cluster_kategori":"Rendah"
+  },
+  {
+    "id":68,
+    "nama_toko":"Elzatta Official Shop",
+    "nama_produk":"Elzatta Jilbab Segi Empat Scarf Polos Premium Obelia Naima",
+    "jumlah_terjual":3300,
+    "harga":77000,
+    "omset":254100000,
+    "cluster":0,
+    "cluster_kategori":"Rendah"
+  },
+  {
+    "id":69,
+    "nama_toko":"Elzatta Official Shop",
+    "nama_produk":"Elzatta Hijab Jilbab Segi Empat Voal Polos Keiva Vabira",
+    "jumlah_terjual":2400,
+    "harga":85200,
+    "omset":204480000,
+    "cluster":0,
+    "cluster_kategori":"Rendah"
+  },
+  {
+    "id":70,
+    "nama_toko":"Elzatta Official Shop",
+    "nama_produk":"Elzatta Hijab Kerudung Jilbab Segi empat Polos Obelia Waliyah",
+    "jumlah_terjual":2900,
+    "harga":35400,
+    "omset":102660000,
+    "cluster":0,
+    "cluster_kategori":"Rendah"
+  },
+  {
+    "id":71,
+    "nama_toko":"Elzatta Official Shop",
+    "nama_produk":"Elzatta Hijab Jilbab Kerudung Bergo Instan Jumbo Polos Saida Dazatta",
+    "jumlah_terjual":2600,
+    "harga":68000,
+    "omset":176800000,
+    "cluster":0,
+    "cluster_kategori":"Rendah"
+  },
+  {
+    "id":72,
+    "nama_toko":"Elzatta Official Shop",
+    "nama_produk":"Elzatta Hijab Kerudung Jilbab Bergo Instan Polos Olina Crinkle",
+    "jumlah_terjual":201,
+    "harga":71100,
+    "omset":14291100,
+    "cluster":0,
+    "cluster_kategori":"Rendah"
+  },
+  {
+    "id":73,
+    "nama_toko":"Fairgoods Official Store",
+    "nama_produk":"Fairgoods Celana Chinos Panjang Pria Reguler Fit - Black",
+    "jumlah_terjual":8400,
+    "harga":124000,
+    "omset":1041600000,
+    "cluster":0,
+    "cluster_kategori":"Rendah"
+  },
+  {
+    "id":74,
+    "nama_toko":"Fairgoods Official Store",
+    "nama_produk":"Fairgoods Celana Chinos Panjang Pria Reguler Fit - Olive",
+    "jumlah_terjual":10000,
+    "harga":124000,
+    "omset":1240000000,
+    "cluster":1,
+    "cluster_kategori":"Sedang"
+  },
+  {
+    "id":75,
+    "nama_toko":"Fairgoods Official Store",
+    "nama_produk":"Fairgoods Celana Panjang Linen Relaxed Olive",
+    "jumlah_terjual":1900,
+    "harga":114000,
+    "omset":216600000,
+    "cluster":0,
+    "cluster_kategori":"Rendah"
+  },
+  {
+    "id":76,
+    "nama_toko":"Fairgoods Official Store",
+    "nama_produk":"Fairgoods Celana Jeans Panjang Wisker Grey Slimfit",
+    "jumlah_terjual":10000,
+    "harga":154000,
+    "omset":1540000000,
+    "cluster":1,
+    "cluster_kategori":"Sedang"
+  },
+  {
+    "id":77,
+    "nama_toko":"Fairgoods Official Store",
+    "nama_produk":"Fairgoods Celana Pendek Skater Denim Jorts Merch Nocta Washed Blue",
+    "jumlah_terjual":437,
+    "harga":144000,
+    "omset":62928000,
+    "cluster":0,
+    "cluster_kategori":"Rendah"
+  },
+  {
+    "id":78,
+    "nama_toko":"Fairgoods Official Store",
+    "nama_produk":"Fairgoods Celana Jeans Baggy Fit Chambs Blue",
+    "jumlah_terjual":82,
+    "harga":184000,
+    "omset":15088000,
+    "cluster":0,
+    "cluster_kategori":"Rendah"
+  },
+  {
+    "id":79,
+    "nama_toko":"Fairgoods Official Store",
+    "nama_produk":"Fairgoods Celana Jeans Reguler Nakama Whisker Faded Navy",
+    "jumlah_terjual":416,
+    "harga":164000,
+    "omset":68224000,
+    "cluster":0,
+    "cluster_kategori":"Rendah"
+  },
+  {
+    "id":80,
+    "nama_toko":"Fairgoods Official Store",
+    "nama_produk":"Fairgoods Celana Chinos Pendek Slim Fit - Black",
+    "jumlah_terjual":10000,
+    "harga":94000,
+    "omset":940000000,
+    "cluster":0,
+    "cluster_kategori":"Rendah"
+  },
+  {
+    "id":81,
+    "nama_toko":"Fairgoods Official Store",
+    "nama_produk":"Fairgoods Celana Jeans Loose Fit Yugen Whisker Dark Blue",
+    "jumlah_terjual":4900,
+    "harga":174000,
+    "omset":852600000,
+    "cluster":0,
+    "cluster_kategori":"Rendah"
+  },
+  {
+    "id":82,
+    "nama_toko":"Fairgoods Official Store",
+    "nama_produk":"Fairgoods Celana CARGO LONG Pants Black",
+    "jumlah_terjual":10000,
+    "harga":144000,
+    "omset":1440000000,
+    "cluster":1,
+    "cluster_kategori":"Sedang"
+  },
+  {
+    "id":83,
+    "nama_toko":"Fairgoods Official Store",
+    "nama_produk":"Fairgoods Celana Pendek Skater Denim Jorts Merch Nocta Black",
+    "jumlah_terjual":209,
+    "harga":144000,
+    "omset":30096000,
+    "cluster":0,
+    "cluster_kategori":"Rendah"
+  },
+  {
+    "id":84,
+    "nama_toko":"Fairgoods Official Store",
+    "nama_produk":"Fairgoods Celana Panjang Corduroy Black",
+    "jumlah_terjual":10000,
+    "harga":134000,
+    "omset":1340000000,
+    "cluster":1,
+    "cluster_kategori":"Sedang"
+  },
+  {
+    "id":85,
+    "nama_toko":"Fairgoods Official Store",
+    "nama_produk":"Fairgoods Celana Jeans Reguler Nakama Whisker Washed Blue",
+    "jumlah_terjual":418,
+    "harga":164000,
+    "omset":68552000,
+    "cluster":0,
+    "cluster_kategori":"Rendah"
+  },
+  {
+    "id":86,
+    "nama_toko":"Fairgoods Official Store",
+    "nama_produk":"Fairgoods Celana Chinos Pendek Slim Fit - Coklat Khaki",
+    "jumlah_terjual":10000,
+    "harga":94000,
+    "omset":940000000,
+    "cluster":0,
+    "cluster_kategori":"Rendah"
+  },
+  {
+    "id":87,
+    "nama_toko":"Honda Cengkareng Official Shop",
+    "nama_produk":"Oli Motor AHM MPX2 0.65L",
+    "jumlah_terjual":10000,
+    "harga":50000,
+    "omset":500000000,
+    "cluster":0,
+    "cluster_kategori":"Rendah"
+  },
+  {
+    "id":88,
+    "nama_toko":"Honda Cengkareng Official Shop",
+    "nama_produk":"Kampas Rem Belakang Tromol Brake Shoe KZL BeAT",
+    "jumlah_terjual":10000,
+    "harga":66400,
+    "omset":664000000,
+    "cluster":0,
+    "cluster_kategori":"Rendah"
+  },
+  {
+    "id":89,
+    "nama_toko":"Honda Cengkareng Official Shop",
+    "nama_produk":"Oli Gardan Trasmission Gear Oil",
+    "jumlah_terjual":10000,
+    "harga":16900,
+    "omset":169000000,
+    "cluster":0,
+    "cluster_kategori":"Rendah"
+  },
+  {
+    "id":90,
+    "nama_toko":"Honda Cengkareng Official Shop",
+    "nama_produk":"Rumah Roller Face Comp Movable Drive BeAT Scoopy Vario 110 22110K44V00",
+    "jumlah_terjual":6200,
+    "harga":90300,
+    "omset":559860000,
+    "cluster":0,
+    "cluster_kategori":"Rendah"
+  },
+  {
+    "id":91,
+    "nama_toko":"Honda Cengkareng Official Shop",
+    "nama_produk":"Oli Motor Honda AHM Oil MPX2 \u2013 0.8 L Matic",
+    "jumlah_terjual":1800,
+    "harga":59000,
+    "omset":106200000,
+    "cluster":0,
+    "cluster_kategori":"Rendah"
+  },
+  {
+    "id":92,
+    "nama_toko":"Honda Cengkareng Official Shop",
+    "nama_produk":"Van Belt + Roller (Belt Drive Kit) - BeAT eSP K81 23100K44BA0",
+    "jumlah_terjual":4800,
+    "harga":179300,
+    "omset":860640000,
+    "cluster":0,
+    "cluster_kategori":"Rendah"
+  },
+  {
+    "id":93,
+    "nama_toko":"Honda Cengkareng Official Shop",
+    "nama_produk":"Saringan Udara (Element Comp",
+    "jumlah_terjual":787,
+    "harga":65800,
+    "omset":51784600,
+    "cluster":0,
+    "cluster_kategori":"Rendah"
+  },
+  {
+    "id":94,
+    "nama_toko":"Honda Cengkareng Official Shop",
+    "nama_produk":"Protector",
+    "jumlah_terjual":273,
+    "harga":51400,
+    "omset":14032200,
+    "cluster":0,
+    "cluster_kategori":"Rendah"
+  },
+  {
+    "id":95,
+    "nama_toko":"Honda Cengkareng Official Shop",
+    "nama_produk":"Pelumas Rantai (Ahm Chain Lube 70 ML) \u2013 ACL70ML",
+    "jumlah_terjual":5100,
+    "harga":25100,
+    "omset":128010000,
+    "cluster":0,
+    "cluster_kategori":"Rendah"
+  },
+  {
+    "id":96,
+    "nama_toko":"AT COMP",
+    "nama_produk":"Ram hynix 8gb ddr3 Pc12800",
+    "jumlah_terjual":2700,
+    "harga":74000,
+    "omset":199800000,
+    "cluster":0,
+    "cluster_kategori":"Rendah"
+  },
+  {
+    "id":97,
+    "nama_toko":"AT COMP",
+    "nama_produk":"Power Supply VARRO EZMAX 500W RGB 80+",
+    "jumlah_terjual":5100,
+    "harga":218400,
+    "omset":1113840000,
+    "cluster":1,
+    "cluster_kategori":"Sedang"
+  },
+  {
+    "id":98,
+    "nama_toko":"AT COMP",
+    "nama_produk":"Pasta Suntik Thermal Pasta Procesor",
+    "jumlah_terjual":811,
+    "harga":1500,
+    "omset":1216500,
+    "cluster":0,
+    "cluster_kategori":"Rendah"
+  },
+  {
+    "id":99,
+    "nama_toko":"AT COMP",
+    "nama_produk":"Harddisk WD 500GB Internal Pc",
+    "jumlah_terjual":5700,
+    "harga":88700,
+    "omset":505590000,
+    "cluster":0,
+    "cluster_kategori":"Rendah"
+  },
+  {
+    "id":100,
+    "nama_toko":"AT COMP",
+    "nama_produk":"USB WIFI Wireless Nano USB Adapter \/ USB DONGLE WIFI \/ USB WIFI PC \/ USB WIFI LAPTOP",
+    "jumlah_terjual":18,
+    "harga":20000,
+    "omset":360000,
+    "cluster":0,
+    "cluster_kategori":"Rendah"
+  }
+]
